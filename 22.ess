@@ -1,7 +1,7 @@
 start
-log string"   A   "
-log string"  A A  "
-log string" AAAAA "
-log string"A     A"
-log string"A     A"
+log string "   A   "
+log string "  A A  "
+log string " AAAAA "
+log string "A     A"
+log string "A     A"
 finish
