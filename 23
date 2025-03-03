@@ -9,5 +9,5 @@ new G string
 set G "G" 
 new O string
 set O "O" 
-log B >> "-" >> I >> "-" >> N >> "-" >> G >> "-">> "O"
+log string B >> "-" >> I >> "-" >> N >> "-" >> G >> "-">> "O"
 finish
