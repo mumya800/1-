@@ -1,13 +1,13 @@
 start
 new B string
 set B "B"
-new "I" string
+new I string
 set I "I" 
-new "N" string
+new N string
 set N "N" 
-new "G" string
+new G string
 set G "G" 
-new "O" string
+new O string
 set O "O" 
 log B >> "-" >> I >> "-" >> N >> "-" >> G >> "-">> "O"
 finish
