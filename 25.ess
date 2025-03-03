@@ -3,8 +3,8 @@ new i number
 set i 1
 new one number
 set one 1
-loop counter (i < 9)
-   log one >> " * " >> i >> " = " >> 1 * i
+loop counter (9 > i)
+   log one >> " * " >> i >> " = " >> i
    i i + 1
 end counter
 finish
