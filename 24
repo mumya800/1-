@@ -1,0 +1,20 @@
+start
+new BankName string 
+set BankName "FPI"
+new Vladelec string 
+set Vladelec "Nowkie"
+new NumCard number
+set NumCard 6666666666666666
+new Srok number
+set Srok 666
+    log"┌───────────────────────────────┐"
+    log"│          " >> BankName >>  "              │"
+    log"│                             │"
+    log"│  Владелец: " >> Vladelec >> "  │"
+    log"│                             │"
+    log"│  Номер карты: " >> NumCard >> " │"
+    log"│                             │"
+    log"│  Срок действия: " >> Srok >> " │"
+    log"│                             │"
+    log"└───────────────────────────────┘"
+finish
